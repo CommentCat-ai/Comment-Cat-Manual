@@ -1,2 +1,6 @@
 # Comment-Cat-Manual
-Manual for the operation of the Comment Cat engine for YourComments.ai
+
+Hello, and thank you for using the Comment Cat engine, the tech stack powering [YourComments.ai](https://YourComments.ai). 
+
+In this manual, we will explain how the service works, best practices, and shed light on the application so you can get the most out of Your Comments.
+
